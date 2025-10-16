@@ -31,6 +31,9 @@ N.B. Semua materi edukasi ini telah digunakan dan disampaikan oleh [**Prof. NOTA
 * [**Web3 on Campus: Petra Christian University Surabaya - 17 April 2023**](https://web3campus.idnft.id/)
 * [**Road to DevCon Ethereum 2024: Halo Ethereum - 7 Desember 2023**](https://pintu.co.id/news/61828-pintu-sponsori-event-halo-ethereum)
 
-N.B. 2. Semua yang ada dalam dokumen ini boleh disebarluaskan tanpa persetujuan [**Prof. NOTA**](https://nota.endhonesa.com/) dengan syarat selalu mencantumkan sumbernya.
+***
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
 
 ***
+
